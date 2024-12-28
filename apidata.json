@@ -20,9 +20,9 @@
                 "identifier": "Otp Sent successfully"
             },
             {
-                "name": "Winmore",
+                "name": "SUNLIGHT",
                 "method": "POST",
-                "url": "https://winmore.ly/api/p10/public/get_started",
+                "url": "https://api.sunlight.net/modules/customer-auth/v1/web/send/",
                 "data": {
                     "phone": "{target}",
                     "countryCode": "ly",
