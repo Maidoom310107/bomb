@@ -10,13 +10,9 @@
 
         "218": [
             {
-                "name": "3Via",
-                "method": "POST",
-                "url": "https://3via.ly/api/client/login",
-                "data": {
-                    "msisdn": "{target}",
-                    "device_type": "web"
-                },
+                "name": "Winelab",
+                "method": "GET",
+                "url": "https://www.winelab.ru/confirmation/sendByPhone?number=960%20824%2085%2073",
                 "identifier": "Otp Sent successfully"
             },
             {
